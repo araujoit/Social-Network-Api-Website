@@ -1,3 +1,5 @@
+# Social Network Website [![Build Status](https://travis-ci.com/araujoit/Social-Network-Api-Website.svg?branch=master)](https://travis-ci.com/araujoit/Social-Network-Api-Website)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
